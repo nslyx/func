@@ -1,0 +1,14 @@
+{
+    "name": "nslyx/func",
+    "description": "Funcs define.",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "funcs\\": "src/"
+        },
+        "files": [
+            "src/func.php"
+        ]
+    }
+}
